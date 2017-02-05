@@ -1,7 +1,6 @@
 /*
  *  The scanner definition for COOL.
  */
-package me.ygy.compiler.lexer;
 import java_cup.runtime.Symbol;
 
 
